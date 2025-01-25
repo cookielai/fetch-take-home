@@ -59,7 +59,6 @@ This repository contains the solutions and deliverables for the Fetch Take-Home 
 
 - Python (Jupyter Notebook) for data exploration and cleaning.
 - SQL for querying and analysis.
-- LaTeX for creating structured and professional PDFs.
 
 ---
 
